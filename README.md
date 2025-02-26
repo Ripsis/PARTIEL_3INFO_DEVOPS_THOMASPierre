@@ -1,3 +1,8 @@
+## Statut des Workflows
+
+![Tests](https://github.com/Ripsis/PARTIEL_3INFO_DEVOPS_THOMASPierre/actions/workflows/test.yml/badge.svg)
+![Linter](https://github.com/Ripsis/PARTIEL_3INFO_DEVOPS_THOMASPierre/actions/workflows/linter.yml/badge.svg)
+
 # Partiel DEVOPS - Exemple avec Python et GitHub Actions
 
 Ce dépôt contient un projet Python simple avec :
